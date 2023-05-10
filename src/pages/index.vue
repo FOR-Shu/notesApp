@@ -1,5 +1,5 @@
 <template>
     <div>
-        <h1>INDEX PAGE</h1>
+        <NoteTitle />
     </div>
 </template>
